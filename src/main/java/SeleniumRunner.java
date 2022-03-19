@@ -7,7 +7,7 @@ public class SeleniumRunner {
         WebDriverManager.chromedriver().setup();
         WebDriver webDriver= new ChromeDriver() ;
         webDriver.get("https://www.google.com/");
-
+//Establishing the webdriver
 
     }
 }
